@@ -16,7 +16,7 @@ General view of app's main page.
 if the user types wrong password or username (it does matter. There are different situations for each.)
 
 ### Screenshot3:
-if the user types his/her password ans username correctly, he/she sign up to app successfully. (There is no any Database saving action, it's just symbolic app.)
+if the user types his/her password ans username correctly, he/she sign up to app successfully. (There is no saving action to Databse, it's just symbolic app.)
 
 
 Thanks to Atil Samancioglu :)
