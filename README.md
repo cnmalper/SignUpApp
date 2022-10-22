@@ -9,13 +9,13 @@ I practiced on Segue, Optionals, Alerts, Functions and Lifecycle.
 
 <img width="1158" alt="Screen Shot 2022-10-22 at 11 21 24" src="https://user-images.githubusercontent.com/79938189/197328866-529bf634-ce56-4bdd-96e0-1054e939b60b.png">
 
-### Screenshot1: 
+### Screenshot-1: 
 General view of app's main page.
 
-### Screenshot2: 
+### Screenshot-2: 
 if the user types wrong password or username (it does matter. There are different situations for each.)
 
-### Screenshot3:
+### Screenshot-3:
 if the user types his/her password and username correctly, he/she sign up to app successfully. (There is no saving action to Databse, it's just symbolic app.)
 
 
