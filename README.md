@@ -19,4 +19,4 @@ if the user types wrong password or username (it does matter. There are differen
 if the user types his/her password correctly, he/she signup to app successfully. (There is no any Database saving action, it's just symbolic app.)
 
 
-Thanks to @atilsamancioglu :)
+Thanks to Atil Samancioglu :)
