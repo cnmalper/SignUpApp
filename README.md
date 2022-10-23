@@ -14,5 +14,3 @@ I practiced on Segue, Optionals, Alerts, Functions and Lifecycle.
 #### -> if the user types wrong password or username (it does matter. There are different situations for each.)
 
 #### -> if the user types his/her password and username correctly, he/she sign up to app successfully. (There is no saving process to Database, it's just symbolic app.)
-
-Thanks to Atil Samancioglu :)
