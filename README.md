@@ -2,7 +2,7 @@
 
 ## 100 Days Of Swift & iOS
 
-Built an app that takes a username and password from user. It controls username and password and then sign-up to app.
+Built an app that takes a username and password from user. It checks username and password and then sign-up to app.
 I practiced on Segue, Optionals, Alerts, Functions and Lifecycle.
 
 -> General view of app's main page.
